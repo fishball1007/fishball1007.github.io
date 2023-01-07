@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a35a72a-205e-4a07-bd5d-fe27bb9b0551" name="Changes" comment="add GA Script" />
+    <list default="true" id="0a35a72a-205e-4a07-bd5d-fe27bb9b0551" name="Changes" comment="add GA Script">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +77,7 @@
       <workItem from="1667933566403" duration="8283000" />
       <workItem from="1672942950809" duration="1478000" />
       <workItem from="1673108826072" duration="9792000" />
-      <workItem from="1673123950897" duration="728000" />
+      <workItem from="1673123950897" duration="1663000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1667673745081</created>
@@ -217,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673124538884</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="add GA Script">
+      <created>1673124707010</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1673124707010</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

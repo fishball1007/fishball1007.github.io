@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a35a72a-205e-4a07-bd5d-fe27bb9b0551" name="Changes" comment="新增顏色到我的課表">
+      <change afterPath="$PROJECT_DIR$/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/bg-masthead.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/bg-signup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/demo-image-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/demo-image-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaderboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TimeTable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Leaderboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutecat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutedog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/golddog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2022042007580727.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/686cca70-cc21-11ec-bc3f-b6f61540be2e.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/686cca70-cc21-11ec-bc3f-b6f61540be2e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/77cc5d96df144983944cc1068ec79a86.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/d6110801.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gold.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2H8jFKhRJAiuze8MtOf99zOG206" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\mywebsite" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a35a72a-205e-4a07-bd5d-fe27bb9b0551" name="Changes" comment="" />
+      <created>1667673499580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667673499580</updated>
+      <workItem from="1667673500734" duration="1232000" />
+      <workItem from="1667677346890" duration="10000" />
+      <workItem from="1667677583795" duration="12000" />
+      <workItem from="1667678047778" duration="312000" />
+      <workItem from="1667678378619" duration="19000" />
+      <workItem from="1667678413718" duration="61000" />
+      <workItem from="1667678495143" duration="27000" />
+      <workItem from="1667678543020" duration="19000" />
+      <workItem from="1667678572389" duration="3032000" />
+      <workItem from="1667681715839" duration="312000" />
+      <workItem from="1667760628085" duration="2839000" />
+      <workItem from="1667763498394" duration="10000" />
+      <workItem from="1667763578239" duration="8000" />
+      <workItem from="1667763588131" duration="5000" />
+      <workItem from="1667763606370" duration="4221000" />
+      <workItem from="1667933566403" duration="8283000" />
+      <workItem from="1672942950809" duration="1478000" />
+      <workItem from="1673108826072" duration="764000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1667673745081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667673745081</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1667681857354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667681857354</updated>
+    </task>
+    <task id="LOCAL-00003" summary="新增超連結">
+      <created>1667763081917</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667763081917</updated>
+    </task>
+    <task id="LOCAL-00004" summary="新增超連結">
+      <created>1667763321898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667763321898</updated>
+    </task>
+    <task id="LOCAL-00005" summary="新增超連結">
+      <created>1667763934035</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667763934035</updated>
+    </task>
+    <task id="LOCAL-00006" summary="新增我的課表">
+      <created>1667764713366</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667764713366</updated>
+    </task>
+    <task id="LOCAL-00007" summary="新增顏色到我的課表">
+      <created>1667767709735</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667767709735</updated>
+    </task>
+    <task id="LOCAL-00008" summary="新增顏色到我的課表">
+      <created>1667939374961</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667939374961</updated>
+    </task>
+    <task id="LOCAL-00009" summary="新增顏色到我的課表">
+      <created>1667939704236</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667939704236</updated>
+    </task>
+    <task id="LOCAL-00010" summary="新增顏色到我的課表">
+      <created>1667940610499</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667940610499</updated>
+    </task>
+    <task id="LOCAL-00011" summary="新增顏色到我的課表">
+      <created>1667941341615</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667941341615</updated>
+    </task>
+    <task id="LOCAL-00012" summary="新增顏色到我的課表">
+      <created>1667941696124</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667941696124</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <MESSAGE value="新增超連結" />
+    <MESSAGE value="新增我的課表" />
+    <MESSAGE value="增加顏色到兩個表" />
+    <MESSAGE value="新增顏色到我的課表" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增顏色到我的課表" />
+  </component>
+</project>

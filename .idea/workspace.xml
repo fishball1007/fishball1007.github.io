@@ -78,6 +78,7 @@
       <workItem from="1667933566403" duration="8283000" />
       <workItem from="1672942950809" duration="1478000" />
       <workItem from="1673108826072" duration="9792000" />
+      <workItem from="1673123950897" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1667673745081</created>
@@ -205,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673119012203</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add GA Script">
+      <created>1673124262466</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1673124262466</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +240,7 @@
     <MESSAGE value="change website with free temple" />
     <MESSAGE value="修改標題" />
     <MESSAGE value="修改畫面" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改畫面" />
+    <MESSAGE value="add GA Script" />
+    <option name="LAST_COMMIT_MESSAGE" value="add GA Script" />
   </component>
 </project>

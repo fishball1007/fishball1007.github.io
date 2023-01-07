@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a35a72a-205e-4a07-bd5d-fe27bb9b0551" name="Changes" comment="change website with free temple">
+    <list default="true" id="0a35a72a-205e-4a07-bd5d-fe27bb9b0551" name="Changes" comment="修改標題">
+      <change afterPath="$PROJECT_DIR$/assets/img/bg-dog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/bg-dog.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +80,7 @@
       <workItem from="1667763606370" duration="4221000" />
       <workItem from="1667933566403" duration="8283000" />
       <workItem from="1672942950809" duration="1478000" />
-      <workItem from="1673108826072" duration="1945000" />
+      <workItem from="1673108826072" duration="4729000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1667673745081</created>
@@ -170,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673109785116</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="修改標題">
+      <created>1673110948407</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673110948407</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +205,7 @@
     <MESSAGE value="增加顏色到兩個表" />
     <MESSAGE value="新增顏色到我的課表" />
     <MESSAGE value="change website with free temple" />
-    <option name="LAST_COMMIT_MESSAGE" value="change website with free temple" />
+    <MESSAGE value="修改標題" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改標題" />
   </component>
 </project>
